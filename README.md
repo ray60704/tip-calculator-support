@@ -26,4 +26,4 @@ For questions or support regarding Happy Tip, please contact:
 
 ## License
 
-© 2024 Happy Tip. All rights reserved.
+© 2025 Happy Tip. All rights reserved.
